@@ -33,8 +33,3 @@ Both apps are deployed on **Netlify** with role-based authentication (Admin & Us
 
 ### 1. Clone the repositories
 ```bash
-# Main App (Host)
-git clone https://github.com/your-username/main-app.git
-
-# Music Library (Remote)
-git clone https://github.com/your-username/music-library.git
