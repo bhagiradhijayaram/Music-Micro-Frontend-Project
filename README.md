@@ -1,4 +1,4 @@
-# 🎶 Music Micro-Frontend Project
+# Music Micro-Frontend Project
 
 This project demonstrates **Micro Frontend Architecture** using **React 19, Vite, and Module Federation**.  
 It is split into two independently deployable apps:
