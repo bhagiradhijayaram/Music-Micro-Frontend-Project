@@ -57,3 +57,12 @@ npm run dev
 - Music Library (Remote): https://micro-frontend-music-library.netlify.app/
   
 ### UI Preview
+<img width="1920" height="912" alt="screencapture-localhost-5000-login-2025-09-07-14_47_22" src="https://github.com/user-attachments/assets/ead591fa-4986-448b-afb3-58c4ccc995e4" /> 
+
+<img width="1920" height="1648" alt="screencapture-localhost-5000-admin-dashboard-2025-09-07-14_49_10" src="https://github.com/user-attachments/assets/893d9596-3d29-454e-a2ff-717f5ee99972" />
+
+<img width="1920" height="1573" alt="screencapture-localhost-5000-user-dashboard-2025-09-07-14_48_47" src="https://github.com/user-attachments/assets/981ab78c-d57d-423e-bf07-c53ccaca14ea" /> 
+
+
+
+
