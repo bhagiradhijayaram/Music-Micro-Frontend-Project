@@ -74,7 +74,7 @@ User
 - Main App (Host): https://main-host.netlify.app/
 - Music Library (Remote): https://micro-frontend-music-library.netlify.app/
 
-### Screen Recording Video
+### Project Screen Recording Video
 
 Link: https://drive.google.com/file/d/1V1GG3WQhNf-xvnZ8fjqhwofS5ooT6nW_/view?usp=sharing
   
