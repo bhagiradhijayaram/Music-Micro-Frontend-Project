@@ -15,7 +15,7 @@ Both apps are deployed on **Netlify** with role-based authentication (Admin & Us
 - Vite + vite-plugin-federation  
 - TailwindCSS  
 - React Router DOM  
-- js-cookie (for authentication)  
+- LocalStorage (for dummy authentication)  
 - Netlify (deployment)  
 
 ---
