@@ -54,7 +54,9 @@ npm run dev
 ### Deployment
 
 Both apps are deployed on Netlify.
+
 music-library builds into /dist → Netlify hosts remoteEntry.js
+
 main-app fetches the remoteEntry.js from the deployed music-library
 
 ### Live Demo Links
