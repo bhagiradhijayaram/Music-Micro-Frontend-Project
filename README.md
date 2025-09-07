@@ -53,5 +53,5 @@ npm run dev
 ```
 ### Live Demo Links
 
-- Main App (Host): https://micro-frontend-main-app.netlify.app
-- Music Library (Remote): https://micro-frontend-music-library.netlify.app
+- Main App (Host): https://main-host.netlify.app/
+- Music Library (Remote): https://micro-frontend-music-library.netlify.app/
