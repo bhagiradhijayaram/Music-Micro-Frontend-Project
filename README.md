@@ -51,6 +51,15 @@ npm run dev
 # In another terminal, for main-app
 npm run dev
 ```
+### Demo Credentials
+Admin
+
+- Username: admin
+- Password: admin123
+User
+
+- Username: user
+- Password: user123
 ### Deployment
 
 - Both apps are deployed on Netlify.
