@@ -33,3 +33,26 @@ Both apps are deployed on **Netlify** with role-based authentication (Admin & Us
 
 ### 1. Clone the repositories
 ```bash
+https://github.com/bhagiradhijayaram/Music-Micro-Frontend-Project.git
+```
+### 2. Install dependencies
+```bash
+cd main-app
+npm install
+
+cd ../music-library
+npm install
+```
+### 3. Start development servers
+```bash
+# In music-library
+npm run dev
+
+# In another terminal, for main-app
+npm run dev
+```
+### Live Demo Links
+
+- Main App (Host): https://micro-frontend-main-app.netlify.app
+- 
+- Music Library (Remote): https://micro-frontend-music-library.netlify.app
